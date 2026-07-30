@@ -24,19 +24,22 @@
 <br>
 <br>
 
-## The idea
+## What I build
 
-Every assistant I used kept its memory of me inside someone else's account.
-Switch models and it's gone. Cancel the subscription and it's gone. The thing
-that knew how I work was never actually mine.
+AI products that run on your own hardware instead of someone else's cloud.
 
-So I moved the memory to my own machine and made the model the part you can
-throw away.
+**troth** is the current one. Every assistant I used kept its memory of me
+inside someone else's account: switch models and it's gone, cancel the
+subscription and it's gone. The thing that knew how I work was never actually
+mine. So the memory moved to my own machine and the model became the part you
+can throw away.
 
-**troth** keeps its identity, memory, goals and refusal rules in a SQLite
-substrate on your hardware. The language model underneath is interchangeable —
-Claude, ChatGPT, Kimi, or one running entirely offline. Swap the engine and the
-partner is unchanged, because the mind was never in the model.
+troth keeps its identity, memory, goals and refusal rules in a SQLite substrate
+on your hardware. The language model underneath is interchangeable, whether that
+is Claude, ChatGPT, Kimi, or one running entirely offline. Swap the engine and
+the partner is unchanged, because the mind was never in the model.
+
+Before it, **arkiTrace**. Alongside, **Coldy**.
 
 <br>
 
