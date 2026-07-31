@@ -60,7 +60,7 @@ you run a local model with no internet at all.
 **Your keys, never seen**
 
 The model receives the result of an API call, never the credential that made it.
-A prompt that asks for your keys gets nothing — there was nothing to reveal.
+A prompt that asks for your keys gets nothing back. There was nothing to reveal.
 
 </td>
 </tr>
@@ -92,7 +92,7 @@ The macOS app is what funds the work.
 |---:|:---|
 | **1,696** | tests running in CI on every push |
 | **0** | telemetry calls in the open core |
-| **1** | payment, then twelve months of updates — no subscription |
+| **1** | payment, then twelve months of updates, no subscription |
 
 <br>
 
@@ -104,6 +104,8 @@ The macOS app is what funds the work.
   <a href="https://troth.one/technical">Technical detail</a>
   &nbsp;·&nbsp;
   <a href="https://troth.one/security">Security</a>
+  &nbsp;·&nbsp;
+  <a href="https://syde.one">Everything else I build</a>
 </p>
 
 <p align="center">
