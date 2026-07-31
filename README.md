@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://troth.one">
-    <img src="banner.png" alt="troth — swap the model, keep the mind" width="840">
+    <img src="banner.png" alt="troth. Swap the model, keep the mind." width="840">
   </a>
 </p>
 
