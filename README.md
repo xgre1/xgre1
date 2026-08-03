@@ -90,7 +90,7 @@ The macOS app is what funds the work.
 
 |  |  |
 |---:|:---|
-| **1,696** | tests running in CI on every push |
+| **1,349** | checks green in CI on every push |
 | **0** | telemetry calls in the open core |
 | **1** | payment, then twelve months of updates, no subscription |
 
