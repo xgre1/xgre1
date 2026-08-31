@@ -13,86 +13,30 @@
 
 <br>
 
-<p align="center">
-  <img src="app.png" alt="troth on macOS" width="760">
-</p>
+I build software that keeps working when the company behind it stops.
 
-<p align="center">
-  <sub><b>232,669</b> things learned &nbsp;·&nbsp; on one machine &nbsp;·&nbsp; still there after every model swap</sub>
-</p>
+**[troth](https://github.com/xgre1/troth)** is the current one: an AI partner
+whose mind — memory, identity, goals, refusal walls — lives in a SQLite file on
+your own machine. The model underneath is rented and replaceable: Claude,
+ChatGPT, Kimi, or one running fully offline. Swap the engine and the partner is
+unchanged, because the mind was never in the model.
 
-<br>
-<br>
-
-## What I build
-
-AI products that run on your own hardware instead of someone else's cloud.
-
-**troth** is the current one. Every assistant I used kept its memory of me
-inside someone else's account: switch models and it's gone, cancel the
-subscription and it's gone. The thing that knew how I work was never actually
-mine. So the memory moved to my own machine and the model became the part you
-can throw away.
-
-troth keeps its identity, memory, goals and refusal rules in a SQLite substrate
-on your hardware. The language model underneath is interchangeable, whether that
-is Claude, ChatGPT, Kimi, or one running entirely offline. Swap the engine and
-the partner is unchanged, because the mind was never in the model.
-
-Before it, **arkiTrace**. Alongside, **Coldy**.
-
-<br>
-
-## What that buys you
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Memory that survives**
-
-Sessions, restarts, model swaps. What it learned on Claude is still there when
-you run a local model with no internet at all.
-
-</td>
-<td width="50%" valign="top">
-
-**Your keys, never seen**
-
-The model receives the result of an API call, never the credential that made it.
-A prompt that asks for your keys gets nothing back. There was nothing to reveal.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Nothing leaves the machine**
-
-No telemetry, no analytics, no account to sync to. Delete the database and it
-forgets, completely and immediately.
-
-</td>
-<td width="50%" valign="top">
-
-**Open core**
+Its hands are governed, not merely capable: every shell command runs inside a
+kernel wall shaped to the folder it stands in, installs land in a jail that
+cannot see your home, and everything the hands touch is photographed for undo.
+No approval prompts anywhere — the wall is the kernel's, not a dialog's.
 
 The substrate, router, proxy, CLI and MCP servers are AGPL and free forever.
-The macOS app is what funds the work.
-
-</td>
-</tr>
-</table>
-
-<br>
+The macOS app is what funds the work. Before troth, **arkiTrace**. Alongside,
+**Coldy**.
 
 ## Checkable, not claimed
 
 |  |  |
 |---:|:---|
-| **1,349** | checks green in CI on every push |
+| **1,805** | checks in one `npm test` — the release gate refuses to ship if this number drifts |
+| **0** | approval prompts in a governed shell |
 | **0** | telemetry calls in the open core |
-| **1** | payment, then twelve months of updates, no subscription |
 
 <br>
 
@@ -107,9 +51,3 @@ The macOS app is what funds the work.
   &nbsp;·&nbsp;
   <a href="https://syde.one">Everything else I build</a>
 </p>
-
-<p align="center">
-  <sub>I build software that keeps working when the company behind it stops.</sub>
-</p>
-
-<!-- profile -->
