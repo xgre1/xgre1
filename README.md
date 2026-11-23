@@ -6,12 +6,12 @@
 
 <br>
 
-I build AI that does the work.
+I'm Gregory, an independent builder and the founder of
+**[owan](https://owan.ai)**.
 
-**[owan](https://owan.ai)** is what I'm building now. It is the one AI you own.
-It lives on your Mac and grows with you, learning your projects, your people,
-your decisions and the thinking behind them. The longer you work together, the
-more it can take on for you.
+owan is the one AI you own. It lives on your Mac and grows with you, learning
+your projects, your people, your decisions and the thinking behind them. The
+longer you work together, the more it can take on for you.
 
 owan was called troth until November 2026. Same product, same person behind it,
 new name.
