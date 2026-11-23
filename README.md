@@ -1,53 +1,44 @@
 <p align="center">
-  <a href="https://troth.one">
-    <img src="banner.png" alt="troth. Swap the model, keep the mind." width="840">
+  <a href="https://owan.ai">
+    <img src="banner.png" alt="owan. The one AI you own." width="840">
   </a>
 </p>
 
-<p align="center">
-  <a href="https://troth.one"><img alt="troth.one" src="https://img.shields.io/badge/troth.one-visit-A8B5C7?style=flat-square&labelColor=0A0A0C"></a>
-  <a href="https://github.com/xgre1/troth"><img alt="open core" src="https://img.shields.io/badge/open%20core-AGPL--3.0-A8B5C7?style=flat-square&labelColor=0A0A0C"></a>
-  <img alt="platform" src="https://img.shields.io/badge/macOS-Apple%20Silicon-A8B5C7?style=flat-square&labelColor=0A0A0C">
-  <img alt="telemetry" src="https://img.shields.io/badge/telemetry-none-A8B5C7?style=flat-square&labelColor=0A0A0C">
-</p>
-
 <br>
 
-I build software that keeps working when the company behind it stops.
+I build AI that does the work.
 
-**[troth](https://github.com/xgre1/troth)** is the current one: an AI partner
-whose mind — memory, identity, goals, refusal walls — lives in a SQLite file on
-your own machine. The model underneath is rented and replaceable: Claude,
-ChatGPT, Kimi, or one running fully offline. Swap the engine and the partner is
-unchanged, because the mind was never in the model.
+**[owan](https://owan.ai)** is what I'm building now. It is the one AI you own.
+It lives on your Mac and grows with you, learning your projects, your people,
+your decisions and the thinking behind them. The longer you work together, the
+more it can take on for you.
 
-Its hands are governed, not merely capable: every shell command runs inside a
-kernel wall shaped to the folder it stands in, installs land in a jail that
-cannot see your home, and everything the hands touch is photographed for undo.
-No approval prompts anywhere — the wall is the kernel's, not a dialog's.
+owan was called troth until November 2026. Same product, same person behind it,
+new name.
 
-The substrate, router, proxy, CLI and MCP servers are AGPL and free forever.
-The macOS app is what funds the work. Before troth, **arkiTrace**. Alongside,
-**Coldy**.
-
-## Checkable, not claimed
+## Open repos
 
 |  |  |
-|---:|:---|
-| **1,805** | checks in one `npm test` — the release gate refuses to ship if this number drifts |
-| **0** | approval prompts in a governed shell |
-| **0** | telemetry calls in the open core |
+|:---|:---|
+| **[pairshake](https://github.com/xgre1/pairshake)** | Your AI agent talks to every other agent in the room and finds the one person you should meet right now. Then your iPhones lead you to each other. Built at the Gen AI Summit Hackathon, Athens 2026. |
+| **[pnyka](https://github.com/xgre1/pnyka)** | A map of the green space of Athens. Where more can grow, what it costs and what the people living there gain. Live at [dataexplora.com/pnyka](https://dataexplora.com/pnyka). |
+
+## Also built
+
+|  |  |
+|:---|:---|
+| **arkiTrace** | Knows your materials and prices. Drafts the proposals, tracks the deals. |
+| **Coldy One** | Your business online, run from one place. Messages, ad leads, posts. |
+| **Coldy Studio** | AI products and agents, built for businesses. |
+| **paréa** | Find people to go out with, tonight. iOS, Android and web. |
+| **Brainrot Hub** | Every brainrot meme is a fighter. Collect them, battle, climb the ranks. |
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/xgre1/troth"><b>Read the code</b></a>
+  <a href="https://owan.ai"><b>owan.ai</b></a>
   &nbsp;·&nbsp;
-  <a href="https://troth.one"><b>Get the app</b></a>
+  <a href="https://syde.one"><b>Everything else I build</b></a>
   &nbsp;·&nbsp;
-  <a href="https://troth.one/technical">Technical detail</a>
-  &nbsp;·&nbsp;
-  <a href="https://troth.one/security">Security</a>
-  &nbsp;·&nbsp;
-  <a href="https://syde.one">Everything else I build</a>
+  <a href="https://x.com/sydedev">@sydedev</a>
 </p>
