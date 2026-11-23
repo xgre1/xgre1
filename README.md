@@ -23,16 +23,6 @@ new name.
 | **[pairshake](https://github.com/xgre1/pairshake)** | Your AI agent talks to every other agent in the room and finds the one person you should meet right now. Then your iPhones lead you to each other. Built at the Gen AI Summit Hackathon, Athens 2026. |
 | **[pnyka](https://github.com/xgre1/pnyka)** | A map of the green space of Athens. Where more can grow, what it costs and what the people living there gain. Live at [dataexplora.com/pnyka](https://dataexplora.com/pnyka). |
 
-## Also built
-
-|  |  |
-|:---|:---|
-| **arkiTrace** | Knows your materials and prices. Drafts the proposals, tracks the deals. |
-| **Coldy One** | Your business online, run from one place. Messages, ad leads, posts. |
-| **Coldy Studio** | AI products and agents, built for businesses. |
-| **paréa** | Find people to go out with, tonight. iOS, Android and web. |
-| **Brainrot Hub** | Every brainrot meme is a fighter. Collect them, battle, climb the ranks. |
-
 <br>
 
 <p align="center">
