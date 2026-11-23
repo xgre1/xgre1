@@ -1,34 +1,46 @@
 <p align="center">
-  <a href="https://owan.ai">
-    <img src="banner.png" alt="owan. The one AI you own." width="840">
-  </a>
+  <a href="https://owan.ai"><img src="assets/owan.webp" alt="owan. The one AI you own." width="100%"></a>
 </p>
 
-<br>
+<h3 align="center">I'm Gregory. I'm building owan, the one AI you own.</h3>
 
-I'm Gregory, an independent builder and the founder of
-**[owan](https://owan.ai)**.
-
-owan is the one AI you own. It lives on your Mac and grows with you, learning
-your projects, your people, your decisions and the thinking behind them. The
-longer you work together, the more it can take on for you.
-
-owan was called troth until November 2026. Same product, same person behind it,
-new name.
-
-## Open repos
-
-|  |  |
-|:---|:---|
-| **[pairshake](https://github.com/xgre1/pairshake)** | Your AI agent talks to every other agent in the room and finds the one person you should meet right now. Then your iPhones lead you to each other. Built at the Gen AI Summit Hackathon, Athens 2026. |
-| **[pnyka](https://github.com/xgre1/pnyka)** | A map of the green space of Athens. Where more can grow, what it costs and what the people living there gain. Live at [dataexplora.com/pnyka](https://dataexplora.com/pnyka). |
-
-<br>
+<p align="center">
+  owan lives on your Mac and grows with you, learning your projects, your people,<br>
+  your decisions and the thinking behind them. The longer you work together,<br>
+  the more it can take on for you.
+</p>
 
 <p align="center">
   <a href="https://owan.ai"><b>owan.ai</b></a>
   &nbsp;·&nbsp;
-  <a href="https://syde.one"><b>Everything else I build</b></a>
+  <a href="https://syde.one">syde.one</a>
   &nbsp;·&nbsp;
-  <a href="https://x.com/sydedev">@sydedev</a>
+  <a href="https://x.com/sydedev">X</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/gregoryserd/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.youtube.com/@sydedev">YouTube</a>
+</p>
+
+<p align="center"><sub>owan was called troth until November 2026.</sub></p>
+
+<br>
+
+### Open repos
+
+<p align="center">
+  <a href="https://github.com/xgre1/pairshake"><img src="assets/pairshake.webp" alt="pairshake. Your AI agent finds the one person in the room you should meet, then your iPhones lead you to each other." width="49%"></a>
+  <a href="https://github.com/xgre1/pnyka"><img src="assets/pnyka.webp" alt="pnyka. The map of green Athens. Where more can grow, what it costs and what the people living there gain." width="49%"></a>
+</p>
+
+### Also built
+
+<p align="center">
+  <a href="https://arkitrace.com"><img src="assets/arkitrace.webp" alt="arkiTrace. Knows your materials and prices. Drafts the proposals, tracks the deals." width="32%"></a>
+  <a href="https://coldy.one"><img src="assets/coldyone.webp" alt="Coldy One. Your business online, run from one place." width="32%"></a>
+  <a href="https://coldy.studio"><img src="assets/coldystudio.webp" alt="Coldy Studio. AI products and agents, built for businesses." width="32%"></a>
+</p>
+<p align="center">
+  <a href="https://tryparea.com"><img src="assets/parea.webp" alt="paréa. Find people to go out with, tonight." width="32%"></a>
+  <a href="https://brainrothub.com"><img src="assets/brainrot.webp" alt="Brainrot Hub. Every brainrot meme is a fighter." width="32%"></a>
 </p>
